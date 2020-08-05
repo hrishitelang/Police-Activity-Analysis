@@ -1,5 +1,5 @@
 # Police-Activity-Analysis
-In this project, I've applied my knowledge of Python and foundations of pandas by answering interesting questions using the Stanford Open Policing Project dataset. I first cleaned the data, and answered main questions such as: 
+In this project, I've applied my knowledge of Python and foundations of pandas by answering interesting questions using the Stanford Open Policing Project dataset and the Weather dataset. Note that the project only covers Rhode Island as the district of police activity. I answered main questions such as: 
 1. Does gender really affect who is frisked during a search?
 2. Does gender really affect whose vehicle is searched?
 3. Which gender performs a lot of violations?
